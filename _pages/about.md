@@ -1,11 +1,11 @@
----
+<!-- ---
 permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
 
 About Me
@@ -24,7 +24,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 Services
 ------
 
-- PC Members of AIED 2024 Main Track 
-- PC Members of The Web Conference 2024 - Web4Good Track
-- PC Members at AIED 2023 Industry Track
+- PC Members of AIED 2024
+- PC Members of The Web Conference 2024
+- PC Members at AIED 2023
 
