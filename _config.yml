@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shuyan Huang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuyan Huang"
 description              : &description "NLPer at TAL"
@@ -21,7 +21,7 @@ repository               : "sonyawong/ShuyanHuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/me.png"
+  avatar           : "me.png"
   name             : "Shuyan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Attention is all you need"
