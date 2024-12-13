@@ -20,15 +20,9 @@ My research interests include **AI in Education**, **Natural Language Processing
 Selected Publications
 ------
 
-title: "Paper Title Number 4"
-collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+- **Xes3g5m: A knowledge tracing benchmark dataset with auxiliary information**
+    * Z Liu, Q Liu, T Guo, J Chen, S Huang, X Zhao, J Tang, W Luo, J Weng
+    * [NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2023/file/67fc628f17c2ad53621fb961c6bafcaf-Paper-Datasets_and_Benchmarks.pdf)
 ---
 
 Experience
