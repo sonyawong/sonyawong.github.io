@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shuyan Huang / Personal Homepage"
+title                    : "Shuyan Huang"
 title_separator          : "-"
 name                     : &name "Shuyan Huang"
 description              : &description "NLPer at TAL"
