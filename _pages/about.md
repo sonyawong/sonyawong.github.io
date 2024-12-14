@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
+About Me
+------
+
 I am currently a full-time NLP engineer at TAL education group and fortunately advised by Prof. Zitao Liu. 
 
 Prior to TAL, I got my M.S degree at NLP2CT Lab in University of Macau, advised by Prof. Derek F. Wong and got my B.E. degree in Logistic Management at Zhejiang Gongshang University.
@@ -81,5 +84,5 @@ Services
 
 - PC Members of AIED 2024
 - PC Members of The Web Conference 2024
-- PC Members at AIED 2023
+- PC Members of AIED 2023
 
