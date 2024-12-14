@@ -3,15 +3,15 @@ permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  # - /about/
+  # - /about.html
 ---
 
 
 About Me
 ------
 
-I am currently a full-time NLP engineer at TAL education group and fortunately advised by Prof. Zitao Liu. 
+I am currently a full-time NLP engineer at [TAL education group](https://www.100tal.com/) (NYSE: TAL) and fortunately advised by Prof. Zitao Liu. 
 
 Prior to TAL, I got my M.S degree at NLP2CT Lab in University of Macau, advised by Prof. Derek F. Wong and got my B.E. degree in Logistic Management at Zhejiang Gongshang University.
 
