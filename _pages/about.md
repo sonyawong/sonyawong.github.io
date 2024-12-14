@@ -74,7 +74,6 @@ Experience
 Awards
 ------
 - Top 100 Open Source Achievement Award 2023
-- The Third Prize of Commerce Service Industry Science and Technology Innovation Award 2023
 - The First Prize of The Quest for Quality Questions 2023
 - Resource Track Best Paper Honorable Mention CIKM 2022
 
