@@ -12,7 +12,7 @@ title                    : "Shuyan Huang"
 title_separator          : "-"
 name                     : &name "Shuyan Huang"
 description              : &description "NLPer at TAL"
-url                      : "https://github.com/sonyawong/ShuyanHuang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sonyawong.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/sonyawong"
 
@@ -27,7 +27,7 @@ author:
   bio              : "NLPer at TAL"
   location         : "Beijing"
   employer         : "TAL Education Group"
-  url              : "https://github.com/sonyawong/ShuyanHuang.github.io"
+  url              : " https://sonyawong.github.io/"
   email            : "nlp2ct.sywong@gmail.com" 
 
   # Academic websites
