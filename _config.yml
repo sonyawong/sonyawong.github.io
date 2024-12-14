@@ -12,9 +12,9 @@ title                    : "Shuyan Huang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shuyan Huang"
 description              : &description "NLPer at TAL"
-url                      : https://sonyawong.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://sonyawong.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sonyawong/ShuyanHuang.github.io"
+repository               : "https://github.com/sonyawong"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,10 @@ author:
   avatar           : "me.png"
   name             : "Shuyan Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Attention is all you need"
+  bio              : "NLPer at TAL"
   location         : "Beijing"
   employer         : "TAL Education Group"
-  uri              : # URL
+  uri              : "https://sonyawong.github.io/"
   email            : "nlp2ct.sywong@gmail.com" 
 
   # Academic websites
