@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a full-time NLP engineer at TAL education group and fortunately advised by Prof. Zitao Liu. 
 
-Prior to TAL, I got my M.S degree at NLP2CT Lab in University of Macau, advised by Prof. Derek F. Wong and got my B.E. degree in Logistic Management at Zhejiang Gongshang University.
+Prior to TAL, I got my M.S. degree in NLP2CT Lab at the University of Macau, thankfully advised by Prof. Derek F. Wong.
 
 My research interests include **AI in Education**, **Natural Language Processing**, **Large Language Models**, etc.
 
@@ -61,12 +61,12 @@ Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, **Shuyan Huang**, Xiangyu Zhao
   
 
 
-Experience
+<!-- Experience
 ------
 
 - 2021 - Present: NLP Engineer at TAL education group
 - 2018 - 2021: M.S. student in E-commerce Technology at University of Macau
-- 2012 - 2016: B.E. in Logistics Management at Zhejiang Gongshang University
+- 2012 - 2016: B.E. in Logistics Management at Zhejiang Gongshang University -->
 
 Awards
 ------
