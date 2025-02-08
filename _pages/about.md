@@ -1,6 +1,7 @@
 ---
 permalink: /
-# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a full-time NLP engineer at TAL education group and fortunately advised by Prof. Zitao Liu. 
+I am currently a full-time NLP engineer at [TAL Education Group](https://www.100tal.com/) (NYSE: TAL) and fortunately advised by Prof. Zitao Liu. 
 
 Prior to TAL, I got my M.S. degree in NLP2CT Lab at the University of Macau, thankfully advised by Prof. Derek F. Wong.
 
@@ -64,14 +65,15 @@ Zitao Liu, Qiongqiong Liu, Teng Guo, Jiahao Chen, **Shuyan Huang**, Xiangyu Zhao
 <!-- Experience
 ------
 
+<<<<<<< HEAD
 - 2021 - Present: NLP Engineer at TAL education group
 - 2018 - 2021: M.S. student in E-commerce Technology at University of Macau
 - 2012 - 2016: B.E. in Logistics Management at Zhejiang Gongshang University -->
 
+
 Awards
 ------
 - Top 100 Open Source Achievement Award 2023
-- The Third Prize of Commerce Service Industry Science and Technology Innovation Award 2023
 - The First Prize of The Quest for Quality Questions 2023
 - Resource Track Best Paper Honorable Mention CIKM 2022
 
@@ -81,5 +83,5 @@ Services
 
 - PC Members of AIED 2024
 - PC Members of The Web Conference 2024
-- PC Members at AIED 2023
+- PC Members of AIED 2023
 
