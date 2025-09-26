@@ -9,15 +9,25 @@ redirect_from:
 ---
 
 
-I am currently a full-time NLP engineer at [TAL Education Group](https://www.100tal.com/) (NYSE: TAL) and fortunately advised by Prof. Zitao Liu. 
+I am currently a first-year PhD student in [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/), fortunately advised by [Prof. Andrew Lan](https://people.umass.edu/~andrewlan/). 
 
-Prior to TAL, I got my M.S. degree in NLP2CT Lab at the University of Macau, thankfully advised by Prof. Derek F. Wong.
+Before that, I was a full-time NLP engineer at [TAL Education Group](https://www.100tal.com/) (NYSE: TAL) and gratefully supervised by [Prof. Zitao Liu](https://www.zitaoliu.com/).
+
+Prior to TAL, I got my M.S. degree in the [NLP2CT Lab](http://nlp2ct.cis.umac.mo/) at the [University of Macau](https://www.um.edu.mo/), thankfully advised by [Prof. Derek F. Wong](https://scholar.google.com/citations?user=KjQBe8oAAAAJ&hl=en).
 
 My research interests include **AI in Education**, **Natural Language Processing**, **Large Language Models**, etc.
 
 
 Selected Publications
 ------
+
+- **Dual-attentional time-aware fusion networks for knowledge tracing** <br>
+**Shuyan Huang**, Zitao Liu, Qiongqiong Liu, Jiahao Chen, Yaying Huang<br> 
+  Information Fusion 2025.
+
+- **Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers** <br>
+Guo Teng, Bojun Zhan, **Shuyan Huang**, Jiahao Chen, Xiangyu Zhao, Mingliang Hou, Zitao Liu<br> 
+  ACM Transactions on Intelligent Systems and Technology 2025.
 
 - **A Prompt-Driven Framework for Multi-Domain Knowledge Tracing** <br>
 Zitao Liu, **Shuyan Huang**, Guo Teng, Mingliang Hou, Qianru Liang<br> 
@@ -80,8 +90,8 @@ Awards
 
 Services
 ------
-
-- PC Members of AIED 2024
+- PC Members of AAAI 2026
+- PC Members of SIGIR 2025
+- PC Members of AIED 2025, 2024, 2023
 - PC Members of The Web Conference 2024
-- PC Members of AIED 2023
 
