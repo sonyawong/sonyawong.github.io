@@ -13,7 +13,7 @@ I am currently a first-year PhD student in [Manning College of Information & Com
 
 Before that, I was a full-time NLP engineer at [TAL Education Group](https://www.100tal.com/) (NYSE: TAL) and gratefully supervised by [Prof. Zitao Liu](https://www.zitaoliu.com/).
 
-Prior to TAL, I got my M.S. degree in the [NLP2CT Lab](http://nlp2ct.cis.umac.mo/) at the [University of Macau](https://www.um.edu.mo/), thankfully advised by [Prof. Derek F. Wong](https://scholar.google.com/citations?user=KjQBe8oAAAAJ&hl=en).
+Prior to TAL, I got my M.S. degree in the [NLP2CT Lab](http://nlp2ct.cis.umac.mo/) at the [University of Macau](https://www.um.edu.mo/), thankfully advised by [Prof. Derek F. Wong](https://www.fst.um.edu.mo/personal/derek-wong/).
 
 My research interests include **AI in Education**, **Natural Language Processing**, **Large Language Models**, etc.
 
