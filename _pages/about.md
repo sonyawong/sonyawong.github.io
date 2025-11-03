@@ -11,11 +11,21 @@ redirect_from:
 
 I am currently a first-year PhD student in [Manning College of Information & Computer Sciences](https://www.cics.umass.edu/), [University of Massachusetts Amherst](https://www.umass.edu/), fortunately advised by [Prof. Andrew Lan](https://people.umass.edu/~andrewlan/). 
 
-Before that, I was a full-time NLP engineer at [TAL Education Group](https://www.100tal.com/) (NYSE: TAL) and gratefully supervised by [Prof. Zitao Liu](https://www.zitaoliu.com/).
+Before that, I was an algorithm engineer at [TAL Education Group](https://www.100tal.com/en-us/) (NYSE: TAL) and gratefully supervised by [Prof. Zitao Liu](https://www.zitaoliu.com/).
 
 Prior to TAL, I got my M.S. degree in the [NLP2CT Lab](http://nlp2ct.cis.umac.mo/) at the [University of Macau](https://www.um.edu.mo/), thankfully advised by [Prof. Derek F. Wong](https://www.fst.um.edu.mo/personal/derek-wong/).
 
 My research interests include **AI in Education**, **Natural Language Processing**, **Large Language Models**, etc.
+
+
+
+News
+------
+- 11/2025. One paper was accepted by AAAI'2026.
+- 09/2025. One paper was accepted by Nature Humanities and Social Sciences Communications'2025.
+- 07/2025. One paper was accepted by Information Fusion'2025.
+- 04/2025: One paper was accepted by ACM Transactions on Intelligent Systems and Technology.
+- 01/2025: One paper was accepted by Machine Learning Journal.
 
 
 Selected Publications
