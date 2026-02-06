@@ -21,6 +21,7 @@ My research interests include **AI in Education**, **Natural Language Processing
 
 News
 ------
+- 01/2026. One paper was accepted by Web Conference'2026.
 - 11/2025. One paper was accepted by AAAI'2026.
 - 09/2025. One paper was accepted by Nature Humanities and Social Sciences Communications'2025.
 - 07/2025. One paper was accepted by Information Fusion'2025.
@@ -30,6 +31,18 @@ News
 
 Selected Publications
 ------
+
+- **COMA: A Collaborative Multi-Role Agent Framework for Automated Lesson Plan Generation** <br>
+Xiaoli Zeng, Ying Zheng, **Shuyan Huang**, Zitao Liu, Mi Tian, Mingliang Hou, Jiaqi Zheng, Wenzhou Dou<br> 
+  Web Conference 2026.
+
+- **A Compress-Expand Framework for Automatic Lesson Plan Generation** <br>
+**Shuyan Huang**, Ying Zheng, Xiaoli Zeng, Zitao Liu<br> 
+  AAAI 2026.
+
+- **Knowledge-enhanced large language models for automatic lesson plan generation** <br>
+Ying Zheng, **Shuyan Huang**, Xiaoli Zeng, Yaying Huang, Zitao Liu, Weiqi Luo<br> 
+  Humanities and Social Sciences Communications 2025.
 
 - **Dual-attentional time-aware fusion networks for knowledge tracing** <br>
 **Shuyan Huang**, Zitao Liu, Qiongqiong Liu, Jiahao Chen, Yaying Huang<br> 
