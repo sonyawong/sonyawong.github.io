@@ -116,5 +116,5 @@ Services
 - PC Members of AAAI 2026
 - PC Members of SIGIR 2025
 - PC Members of AIED 2025, 2024, 2023
-- PC Members of The Web Conference 2024
+- PC Members of The Web Conference 2026, 2024
 
