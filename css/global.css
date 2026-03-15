@@ -1,0 +1,179 @@
+@charset "utf-8";
+
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    padding-top: 5.0rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+    font-weight: 700;
+}
+
+.card {
+    border-radius: 0.8rem !important;
+}
+
+.card-img-overlay {
+    border-radius: 0.8rem !important;
+}
+
+.rounded-xl {
+    border-radius: 0.8rem !important;
+}
+
+.rounded-xl-bottom {
+    border-bottom-right-radius: 0.8rem !important;
+    border-bottom-left-radius: 0.8rem !important;
+}
+
+.rounded-xl-top {
+    border-top-left-radius: 0.8rem !important;
+    border-top-right-radius: 0.8rem !important;
+}
+
+
+.text-profile-position {
+    font-weight: 400;
+}
+
+.text-profile-bio {
+    /* font-family: "Raleway"; */
+    font-weight: 400;
+}
+
+.navbar {
+    opacity: 0.95;
+}
+
+.inline-badge {
+    height: 16px;
+    vertical-align: -10%;
+    margin-right: 2px;
+    line-break: unset;
+}
+
+.no-break {
+    white-space: nowrap;
+}
+
+.cover-image {
+    width: 180px;
+    max-height: 120px;
+}
+
+.abstract-body {
+    min-height: 100px;
+}
+
+img.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+div.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+.badge-publication {
+    font-size: 100%;
+}
+
+.email-text {
+    font-family: Source Code Pro, monospace;
+}
+
+/* ============================================================ */
+/* 核心颜色修改：将所有蓝色部分改为金色 (#d4a017) */
+/* ============================================================ */
+
+/* 1. 修改全局链接颜色 (增加优先级以覆盖 Bootstrap 的 .text-body 等类) */
+a,
+a.text-body,
+.abstract-links a {
+    color: #2195d3 !important;
+}
+
+/* 导航栏文字颜色设置为白色 */
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+
+/* a:hover,
+a.text-body:hover,
+.nav-link:hover,
+.abstract-links a:hover {
+    color: #b8860b !important;
+    text-decoration: none !important;
+} */
+
+/* 2. 修改引用计数标签 (Semantic Scholar citations) */
+/* 将背景从蓝色改为金色 */
+.badge-info {
+    background-color: #c2aedf !important;
+    /* #cea0e2 */
+    /* f6ad55 */
+    /* 2195d3 */
+    /* rgb(187, 137, 199) */
+    /* #d6afe7 */
+    color: white !important;
+}
+
+/* 3. 修改主要按钮颜色 */
+.btn-primary {
+    background-color: #2195d3 !important;
+    border-color: #2195d3 !important;
+    color: white !important;
+}
+
+.btn-primary:hover {
+    background-color: #2195d3 !important;
+    border-color: #2195d3 !important;
+}
+
+/* 4. 修改导航栏选中态颜色 */
+.navbar-nav .nav-item.active .nav-link {
+    color: white !important;
+    background-color: #2195d3 !important;
+}
+
+/* 5. 出版物页面侧边栏年份效果 */
+
+/* 5.1 激活状态（即当前滚动的年份）：去掉蓝色背景，改为文字变色+加粗 */
+#navbar-year .nav-link.active {
+    background-color: transparent !important;
+    color: #2195d3 !important;
+    font-weight: bold;
+    /* border-left: 3px solid #2195d3;
+    在左侧增加一个彩色竖条提示 */
+    border-radius: 0;
+    /* 去掉圆角以配合竖条 */
+}
+
+/* 5.2 鼠标悬停效果 */
+#navbar-year .nav-link:hover {
+    color: white !important;
+    background-color: #2195d3 !important;
+    border-radius: 0.4rem;
+    /* 悬停时可以保留一些圆角感 */
+}
