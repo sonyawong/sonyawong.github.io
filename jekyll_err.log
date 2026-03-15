@@ -1,0 +1,10 @@
+Configuration file: /Users/huangshuyan/sonyawong.github.io/_config.yml
+            Source: /Users/huangshuyan/sonyawong.github.io
+       Destination: /Users/huangshuyan/sonyawong.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.064 seconds.
+ Auto-regeneration: enabled for '/Users/huangshuyan/sonyawong.github.io'
+LiveReload address: http://localhost:35729
+    Server address: http://localhost:4000/
+  Server running... press ctrl-c to stop.
