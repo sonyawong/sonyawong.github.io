@@ -28,9 +28,14 @@ short_bio: |
   <p>
     Prior to TAL, I got my M.S. degree in the <a href="http://nlp2ct.cis.umac.mo/" target="_blank">NLP2CT Lab</a> at the <a href="https://www.um.edu.mo/" target="_blank">University of Macau</a>, thankfully advised by <a href="https://www.fst.um.edu.mo/personal/derek-wong/" target="_blank">Prof. Derek F. Wong</a>.
   </p>
-  <p>
-    My research interests include <strong>AI in Education, Natural Language Processing, Large Language Models</strong>, etc.
+  <p class="mb-2">
+    My research interests lie in the field of AI in Education and Natural Language Processing. More specifically, I am exploring the following topics: 
   </p>
+  <ul class="mb-3">
+    <li><strong>Knowledge Tracing</strong>: benchmarking with <strong>pyKT</strong>, scaling architectures, interpretable and robust modeling;</li>
+    <li><strong>Large Language Models for Education</strong>: automatic lesson plan generation, generative instruction;</li>
+    <li><strong>Educational Dialogue Analysis</strong>: student performance assessment via tutor-student dialogue.</li>
+  </ul>
   <p>
     Additionally, I am one of the main developers of <a href="https://pykt.org/" target="_blank">pyKT</a> (GitHub <span style="color: #f6ad55;">300+ ⭐</span> and <span style="color: #f6ad55;">50k+ 📥</span>).
   </p>
