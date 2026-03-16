@@ -6,15 +6,15 @@ height: 295px
 images:
 - src: /assets/images/showcase/Everest.jpg
   desc: Golden Sunrise, Mount Everest
-- src: /assets/images/showcase/sunset2.JPG  # 第二张本地图片
+- src: /assets/images/showcase/sunset2.jpg  # 第二张本地图片
   desc: Sunset, Inner Mongolia
-- src: /assets/images/showcase/Samarqand2.JPG  # 第二张本地图片
+- src: /assets/images/showcase/Samarqand2.jpg  # 第二张本地图片
   desc: A Thousand and One Nights, Samarkand
-- src: /assets/images/showcase/Хабаровск.JPG  # 第二张本地图片
+- src: /assets/images/showcase/Хабаровск.jpg  # 第二张本地图片
   desc: Khabarovsk, Russia
-- src: /assets/images/showcase/Heavenly Lake.JPG  # 第二张本地图片
+- src: /assets/images/showcase/Heavenly Lake.jpg  # 第二张本地图片
   desc: Heavenly Lake, Xinjiang
-- src: /assets/images/showcase/Pingtan.JPG  # 第二张本地图片
+- src: /assets/images/showcase/Pingtan.jpg  # 第二张本地图片
   desc: Pingtan Island, Fujian
 - src: /assets/images/showcase/8,000 meters.jpg  # 改成本地路径
   # title: Mount Everest

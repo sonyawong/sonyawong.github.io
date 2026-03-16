@@ -15,7 +15,7 @@ date: 2026-03-14 23:55:00 +0800
                 <div class="card-body p-4">
                     <h5 class="card-title mb-3"><i class="fas fa-map-marked-alt text-primary"></i> China</h5>
                     <div class="text-center">
-                        <img src="/assets/images/showcase/China_travel.JPG" class="img-fluid rounded" alt="China">
+                        <img src="/assets/images/showcase/China_travel.jpg" class="img-fluid rounded" alt="China">
                         <!-- <p class="small text-muted mt-2">Province Unlocked: 29/34</p> -->
                     </div>
                 </div>
