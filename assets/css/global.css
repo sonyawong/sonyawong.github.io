@@ -32,26 +32,21 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 /* ============================================================ */
 /* Components: Cards */
 /* ============================================================ */
-.card {
+.card, .rounded-xl {
     border: none !important;
     border-radius: var(--border-radius) !important;
     box-shadow: var(--card-shadow);
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.card {
     overflow: hidden;
 }
 
-/* Card Hover Animation */
-.card:hover {
+/* Card & Container Hover Animation */
+.card:hover, .rounded-xl:hover {
     transform: translateY(-5px);
     box-shadow: var(--card-shadow-hover);
-}
-
-.card-img-overlay {
-    border-radius: var(--border-radius) !important;
-}
-
-.rounded-xl {
-    border-radius: var(--border-radius) !important;
 }
 
 .rounded-xl-bottom {
