@@ -32,9 +32,9 @@ short_bio: |
     My research interests lie in the field of AI in Education and Natural Language Processing. More specifically, I am exploring the following topics: 
   </p>
   <ul class="mb-3">
-    <li><strong>Knowledge Tracing</strong>: benchmarking with <strong>pyKT</strong>, scaling architectures, interpretable and robust modeling;</li>
-    <li><strong>Large Language Models for Education</strong>: automatic lesson plan generation, generative instruction;</li>
-    <li><strong>Educational Dialogue Analysis</strong>: student performance assessment via tutor-student dialogue.</li>
+    <li><strong>Knowledge Tracing (KT)</strong>: benchmarking with deep learning based KT models (<strong>pyKT</strong>), scaling architectures, interpretable and robust modeling;</li>
+    <li><strong>Large Language Models for Education</strong>: automatic lesson plan generation via <strong>Multi-agent</strong> frameworks and <strong>SFT+RAG</strong>, generative instruction;</li>
+    <li><strong>Educational Dialogue Analysis</strong>: student performance assessment and teaching effectiveness modeling via <strong>LLM reasoning</strong> over classroom dialogues.</li>
   </ul>
   <p>
     Additionally, I am one of the main developers of <a href="https://pykt.org/" target="_blank">pyKT</a> (GitHub <span style="color: #f6ad55;">300+ ⭐</span> and <span style="color: #f6ad55;">50k+ 📥</span>).
