@@ -1,6 +1,6 @@
 ---
 title:          "DialogID: A Dialogic Instruction Dataset for Improving Teaching Effectiveness in Online Environments"
-date:           2022-01-01 00:02:00 +0800
+date:           2022-08-01 00:02:00 +0800
 selected:       false
 pub:            "CIKM"
 pub_date:       "2022"

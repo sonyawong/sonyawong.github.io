@@ -1,6 +1,6 @@
 ---
 title:          "Towards robust knowledge tracing models via k-sparse attention"
-date:           2023-01-01 00:01:00 +0800
+date:           2023-07-01 00:01:00 +0800
 selected:       false
 pub:            "SIGIR"
 pub_date:       "2023"

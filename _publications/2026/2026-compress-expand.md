@@ -1,6 +1,6 @@
 ---
 title:          "A Compress-Expand Framework for Automatic Lesson Plan Generation"
-date:           2025-12-01 00:02:00 +0800
+date:           2025-11-01 00:02:00 +0800
 selected:       true
 pub:            "AAAI"
 pub_date:       "2025"

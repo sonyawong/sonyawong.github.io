@@ -1,6 +1,6 @@
 ---
 title:          "Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers"
-date:           2025-01-01 00:03:00 +0800
+date:           2025-04-01 00:03:00 +0800
 selected:       false
 pub:            "ACM Transactions on Intelligent Systems and Technology"
 pub_date:       "2025"

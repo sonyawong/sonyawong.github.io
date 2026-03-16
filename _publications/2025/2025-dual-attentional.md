@@ -1,6 +1,6 @@
 ---
 title:          "Dual-attentional time-aware fusion networks for knowledge tracing"
-date:           2025-01-01 00:02:00 +0800
+date:           2025-07-01 00:02:00 +0800
 selected:       true
 pub:            "Information Fusion"
 pub_date:       "2025"

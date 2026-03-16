@@ -1,6 +1,6 @@
 ---
 title:          "Knowledge-enhanced large language models for automatic lesson plan generation"
-date:           2025-01-01 00:01:00 +0800
+date:           2025-09-01 00:01:00 +0800
 selected:       true
 pub:            "Nature Humanities and Social Sciences Communications"
 pub_date:       "2025"
