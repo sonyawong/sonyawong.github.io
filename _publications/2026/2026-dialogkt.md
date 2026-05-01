@@ -2,7 +2,7 @@
 title:          "Interpretable Difficulty-Aware Knowledge Tracing in Tutor-Student Dialogues"
 date:           2026-05-01 00:01:00 +0800
 selected:       true
-pub:            "21st BEA workshop at ACL 2026"
+pub:            "21st BEA workshop at ACL"
 pub_date:       "2026"
 authors:
   - Shuyan Huang
