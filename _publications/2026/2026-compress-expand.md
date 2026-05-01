@@ -3,7 +3,7 @@ title:          "A Compress-Expand Framework for Automatic Lesson Plan Generatio
 date:           2025-11-01 00:02:00 +0800
 selected:       true
 pub:            "AAAI"
-pub_date:       "2025"
+pub_date:       "2026"
 authors:
   - Shuyan Huang
   - Ying Zheng
